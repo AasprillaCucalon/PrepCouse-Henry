@@ -1,2 +1,2 @@
-# PrepCouse-Henry
-repositorio del modulo dos de Henry
+Alvaro Asprilla
+como clonar y guardar un repocitorio de manera local
